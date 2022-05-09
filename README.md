@@ -7,19 +7,7 @@
 - pip install -r requirements.txt --no-index --find-links file:///tmp/packages
 
 
-for notebook copy `urldata.csv` and `ai.ipynb` in a folder and type the commands:
-```
-conda create -n automl
-conda activate automl
-conda install notebook
-conda install -c conda-forge pandas
-conda install -c conda-forge seaborn
-conda install -c conda-forge scikit-learn
-conda install -c conda-forge xgboost
-conda install -c conda-forge keras
-conda install -c anaconda tensorflow
-conda install gxx_linux-64 gcc_linux-64 swig
-pip install auto-sklearn==0.13
-pip install 'scipy==1.7.0'
+https://mega.nz/folder/Q00E1B4A#KrfRGfYygM-pzppJP1CT1Q
+https://drive.google.com/drive/folders/1Ern0lM4nCDsGIbG9-eLQQ2GGI6PAd44F?usp=sharing
 
-```
+
